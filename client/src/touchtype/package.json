@@ -1,6 +1,7 @@
 {
   "name": "touchtype",
   "version": "0.1.0",
+  "author": "ocelotdive",
   "private": true,
   "homepage": ":",
   "dependencies": {
